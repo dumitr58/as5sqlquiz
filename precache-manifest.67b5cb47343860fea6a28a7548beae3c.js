@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9966b1e29fbc31cc3ac8d32057c3f0a9",
+    "revision": "16301a354cbc25d91c58b954cf7058ed",
     "url": "/as5sqlquiz/index.html"
   },
   {
-    "revision": "d3fff627513547219c73",
-    "url": "/as5sqlquiz/static/css/main.df95e39a.chunk.css"
+    "revision": "25ebef63154f74d7199e",
+    "url": "/as5sqlquiz/static/css/main.6f33f290.chunk.css"
   },
   {
     "revision": "20214f90c4e44a4144f8",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/as5sqlquiz/static/js/2.3dac6231.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3fff627513547219c73",
-    "url": "/as5sqlquiz/static/js/main.6422cb7a.chunk.js"
+    "revision": "25ebef63154f74d7199e",
+    "url": "/as5sqlquiz/static/js/main.596d91c4.chunk.js"
   },
   {
     "revision": "d697458f353ba08d85cb",

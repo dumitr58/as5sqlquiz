@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/as5sqlquiz/static/css/main.df95e39a.chunk.css",
-    "main.js": "/as5sqlquiz/static/js/main.6422cb7a.chunk.js",
-    "main.js.map": "/as5sqlquiz/static/js/main.6422cb7a.chunk.js.map",
+    "main.css": "/as5sqlquiz/static/css/main.6f33f290.chunk.css",
+    "main.js": "/as5sqlquiz/static/js/main.596d91c4.chunk.js",
+    "main.js.map": "/as5sqlquiz/static/js/main.596d91c4.chunk.js.map",
     "runtime-main.js": "/as5sqlquiz/static/js/runtime-main.06413cac.js",
     "runtime-main.js.map": "/as5sqlquiz/static/js/runtime-main.06413cac.js.map",
     "static/js/2.3dac6231.chunk.js": "/as5sqlquiz/static/js/2.3dac6231.chunk.js",
     "static/js/2.3dac6231.chunk.js.map": "/as5sqlquiz/static/js/2.3dac6231.chunk.js.map",
     "index.html": "/as5sqlquiz/index.html",
-    "precache-manifest.455450f5c8119d18680177f4a8842816.js": "/as5sqlquiz/precache-manifest.455450f5c8119d18680177f4a8842816.js",
+    "precache-manifest.67b5cb47343860fea6a28a7548beae3c.js": "/as5sqlquiz/precache-manifest.67b5cb47343860fea6a28a7548beae3c.js",
     "service-worker.js": "/as5sqlquiz/service-worker.js",
-    "static/css/main.df95e39a.chunk.css.map": "/as5sqlquiz/static/css/main.df95e39a.chunk.css.map",
+    "static/css/main.6f33f290.chunk.css.map": "/as5sqlquiz/static/css/main.6f33f290.chunk.css.map",
     "static/js/2.3dac6231.chunk.js.LICENSE.txt": "/as5sqlquiz/static/js/2.3dac6231.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.06413cac.js",
     "static/js/2.3dac6231.chunk.js",
-    "static/css/main.df95e39a.chunk.css",
-    "static/js/main.6422cb7a.chunk.js"
+    "static/css/main.6f33f290.chunk.css",
+    "static/js/main.596d91c4.chunk.js"
   ]
 }
